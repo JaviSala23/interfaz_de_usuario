@@ -1,158 +1,154 @@
 📘 Unidad 1 - Interacción ser humano-máquina
 
-Introducción: ¿Qué es la Interacción Humano-Computadora (HCI) y por qué importa?
+Clase 1 – Introducción a la Interacción Humano-Computadora (HCI)
 
-🎯 Objetivo de la unidad
+🟦 Introducción
 
-Comprender cómo las personas interactúan con los sistemas informáticos, reconocer los distintos tipos de interacción que existen, y reflexionar sobre el diseño de interfaces que prioricen la usabilidad, accesibilidad y experiencia del usuario.
+Vivimos en una sociedad donde las computadoras están en todos lados: en nuestros bolsillos, en la escuela, en el banco, en la casa, en el trabajo. Pero... ¿alguna vez pensaste cómo te comunicás con esas máquinas? ¿Qué sentís cuando algo "no funciona como esperás"? Ahí entra en juego la Interacción Humano-Computadora (HCI).
 
-🧠 ¿Qué es la Interacción Humano-Computadora (HCI)?
+Esta clase es una puerta de entrada a entender cómo y por qué las personas se relacionan con los sistemas informáticos. Vamos a ver que diseñar software no es solo escribir código: también es pensar en quién lo va a usar.
 
-La Interacción Humano-Computadora (HCI, por sus siglas en inglés) es el estudio de cómo las personas usan la tecnología, con el objetivo de diseñar sistemas que resulten fáciles, cómodos y útiles.
+🎯 Objetivos de la clase
 
-📌 Definición base:
+Comprender qué es la HCI.
 
-"Disciplina que estudia el diseño, evaluación e implementación de sistemas informáticos interactivos para el uso humano."
+Identificar los distintos tipos de interacción.
 
-Es un campo multidisciplinario donde se combinan conocimientos de informática, psicología, diseño gráfico, ergonomía y comunicación.
+Reflexionar sobre la experiencia del usuario.
 
-🛠 ¿Por qué es importante pensar en el usuario?
+Reconocer errores comunes cuando no se piensa en la persona usuaria.
 
-Porque crear tecnología sin pensar en el usuario puede llevar a:
+🧠 ¿Qué es la HCI?
 
-Frustración y abandono del sistema 😖
-Cuando una interfaz no es clara, el usuario se cansa, se frustra y abandona la app o plataforma. Esto puede implicar pérdida de clientes, usuarios o incluso afectar la imagen de la organización.
+La Interacción Humano-Computadora (HCI por sus siglas en inglés) es un área de estudio que analiza cómo los seres humanos interactúan con la tecnología digital. El objetivo es diseñar sistemas que sean cómodos, accesibles y eficaces para quienes los usan.
 
-Errores que afectan datos o seguridad 🔐
-Si el diseño no guía correctamente al usuario, este puede cometer errores involuntarios como borrar información importante, hacer clic en un botón no deseado, o enviar datos personales por equivocación.
+No es solo una cuestión de técnica. Es una disciplina multidisciplinaria, donde se cruzan la informática, la psicología, el diseño, la comunicación y hasta la ergonomía.
 
-Interfaces inaccesibles 🚫
-Muchas veces se crean sistemas sin considerar a personas con discapacidad visual, motriz o cognitiva. Un mal diseño deja a miles de personas afuera de la tecnología.
+📌 Definición académica:
 
-Malas decisiones de diseño 🙃
-Pensar en lo estético antes que en lo funcional puede llevar a botones decorativos que no se entienden, menús escondidos o pasos confusos que hacen perder tiempo.
+"La HCI estudia el diseño, evaluación e implementación de sistemas interactivos enfocados en el uso humano."
 
-Una buena interfaz no solo se ve bien, se siente bien al usarla. Genera confianza, claridad y una sensación de fluidez. El usuario no debería tener que "pensar demasiado" para usar un sistema. Las mejores interfaces son aquellas que parecen "transparentes": están ahí, pero no molestan, simplemente acompañan.
+🛠 ¿Por qué importa pensar en el usuario?
+
+Diseñar tecnología sin pensar en el usuario puede llevar a:
+
+Frustración y abandono 😖
+
+Errores graves 🔐
+
+Sistemas inaccesibles 🚫
+
+Pérdida de tiempo y dinero 💸
+
+Una buena interfaz no solo funciona, sino que se siente bien al usarla. Es clara, coherente, te guía sin necesidad de leer un manual. Cuanto menos se nota, mejor está hecha.
+
+El diseño es invisible cuando está bien hecho. – Don Norman
 
 🔄 Tipos de interacción
 
 Tipo de interacción
 
-Descripción
+¿Qué significa?
 
 Ejemplo
 
 Humano ↔ Computadora
 
-Interacción directa entre persona y sistema.
+La persona usa directamente un sistema
 
-Usar una app, escribir un mail
+App de banco, Word, Google
 
 Computadora ↔ Computadora
 
-Sistemas que se comunican entre sí para brindar un servicio al usuario.
+Dos sistemas se conectan entre sí
 
-Google Drive sincroniza archivos entre dispositivos
+Sincronización de datos en la nube
 
-Humano ↔ Humano mediante computadora
+Humano ↔ Humano mediado por sistema
 
-Personas que se comunican gracias a un sistema.
+Personas que se comunican a través de una interfaz
 
-Videollamada, chat, foro
+WhatsApp, Zoom, juegos online
 
-🖥 Dispositivos de entrada y salida
+🖥 Dispositivos que usamos para interactuar
 
-Entrada: teclado, mouse, touch, voz, sensores.
+De entrada: teclado, mouse, pantalla táctil, cámara, micrófono.
 
-Salida: monitor, audio, vibración, luces, realidad aumentada.
+De salida: pantalla, parlantes, luces, vibración.
 
-Estos son los canales por los que el sistema y el usuario se "entienden".
+Estos son los canales del diálogo entre vos y el sistema.
 
-Si el canal está mal diseñado, la experiencia será mala, aunque el sistema funcione bien por dentro.
-
-📈 Evolución de las interfaces
+🕰 Evolución de las interfaces
 
 Etapa
 
-Características
-
-CLI (Command Line Interface)
-
-Rápida pero poco intuitiva. Solo expertos.
-
-GUI (Graphical User Interface)
-
-Ventanas, íconos, botones. Más amigable.
-
-Web
-
-Aplicaciones accesibles desde cualquier navegador.
-
-Natural (voz, gestos)
-
-Más humana e inclusiva.
-
-Invisible / Predictiva
-
-Basada en IA. Anticipa necesidades.
-
-🧩 ¿Dónde vemos la HCI hoy?
-
-Sector
+¿Cómo era?
 
 Ejemplo
 
-Salud
+CLI (línea de comandos)
 
-App para turnos médicos
+Requiere escribir comandos. Difícil para principiantes.
 
-Bancos
+MS-DOS
 
-Cajeros automáticos, apps bancarias
+GUI (interfaz gráfica)
 
-Educación
+Usa ventanas, botones, íconos. Más intuitiva.
 
-Plataformas de clases virtuales
+Windows, macOS
 
-Transporte
+Web
 
-GPS, pantallas táctiles en autos
+Se accede desde cualquier navegador.
 
-Hogar
+Gmail, YouTube
 
-Asistentes de voz, domótica
+Natural
 
-Juegos
+Usa gestos, voz, movimiento.
 
-Consolas con sensores de movimiento
+Asistentes de voz, Kinect
+
+🧩 Ejemplos reales
+
+Cajero automático.
+
+App para sacar turnos médicos.
+
+Plataforma para videollamadas.
+
+Juego multijugador.
+
+Sistema de control en un tractor o cosechadora.
+
+Pensá: ¿Qué tienen en común? ¿Cuál fue fácil y cuál difícil de usar?
 
 💬 Frases clave
 
 "Una buena interfaz guía al usuario sin hacerlo pensar demasiado."
 
-"El error no es del usuario. Es del diseñador que no lo previó."
+"Diseñar es facilitar. Es hacer que el error sea difícil y el acierto fácil."
 
-"Diseñar tecnología no es solo escribir código. Es crear experiencias humanas."
+📝 Para reflexionar
 
-📌 Preguntas para reflexionar
+¿Qué sistema usás todos los días que está bien diseñado? ¿Por qué?
 
-¿Qué sistema digital usás a diario que te parece bien diseñado? ¿Por qué?
+¿Alguna vez abandonaste una app o página por no entender cómo funcionaba?
 
-¿Alguna vez abandonaste una app o página porque era difícil de usar?
+¿Viste alguna vez a alguien mayor luchando con una pantalla? ¿Qué le pasaba?
 
-¿Qué elementos debería tener una interfaz pensada para adultos mayores o personas con dificultades visuales?
+📚 Para seguir aprendiendo
 
-📚 Recomendaciones
+Don Norman – The Design of Everyday Things
 
-Norman, Don. The Design of Everyday Things
+Shneiderman – Designing the User Interface
 
-Shneiderman, Ben. Designing the User Interface
+Sitio: https://www.interaction-design.org
 
-Video recomendado: Objectified (documental sobre diseño)
+🔚 Cierre de clase
 
-Web: https://www.interaction-design.org
+Esta clase fue una introducción a un mundo donde el diseño importa tanto como el código. Nos preparamos para ser profesionales que piensan en el usuario desde el primer momento. Porque al final, la tecnología solo tiene sentido si es útil para alguien.
 
-🔚 Cierre
-
-Este primer contacto con la HCI nos muestra que diseñar un sistema va mucho más allá de hacerlo funcionar. También debemos pensar en cómo se sentirá, se comprenderá y se usará. ¡La próxima clase profundizaremos en los tipos de interfaces más utilizados y cómo elegirlos!
+En la próxima clase veremos los distintos tipos de interfaces y cómo elegirlas según el contexto de uso. ¡Nos vemos!
 
