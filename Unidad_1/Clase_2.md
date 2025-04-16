@@ -19,23 +19,53 @@ En la clase anterior conocimos qué es la IHC (Interacción Humano-Computadora) 
 
 ---
 
-## 🧠 El factor humano en la IHC
+🧠 El factor humano en la IHC
 
-El usuario es el centro del proceso de diseño. Para lograr una buena interacción, debemos conocer **cómo funciona el ser humano** al interactuar con tecnología:
+El usuario es el centro del proceso de diseño. Para lograr una buena interacción, debemos conocer cómo funciona el ser humano al interactuar con tecnología. Las capacidades, limitaciones, emociones y contextos de uso son clave para diseñar sistemas usables, accesibles y efectivos.
 
-### Capacidades humanas relevantes:
-- **Percepción:** vista, oído, tacto. Son los canales para recibir estímulos.
-- **Memoria:** corto, mediano y largo plazo. Vital para recordar cómo usar una app.
-- **Cognición:** razonamiento, atención, resolución de problemas.
-- **Emoción:** influye en la experiencia del usuario (UX).
+🧍‍♂️ Capacidades humanas relevantes
 
-### Cognición individual y distribuida
-- La **cognición individual** analiza cómo cada persona procesa la información.
-- La **cognición distribuida** considera grupos de personas y cómo interactúan usando tecnología.
+👁️ Percepción
 
-### Modelos mentales y arquitecturas cognitivas
-- El usuario construye una representación mental del sistema que está usando.
-- Ej: modelo SOAR, ACT-R. Ayudan a entender cómo se resuelven problemas con un sistema.
+La percepción es el proceso mediante el cual captamos información del entorno a través de los sentidos. En la IHC, los más importantes son:
+
+Vista: Es el canal principal. Las interfaces visuales deben ser claras, legibles y coherentes.
+
+Oído: Importante en interfaces auditivas (asistentes de voz, alertas sonoras).
+
+Tacto: En dispositivos móviles o pantallas táctiles, el sentido del tacto es fundamental para navegar y seleccionar.
+
+Una interfaz mal diseñada puede sobrecargar un sentido (como la vista) o ignorar otros que podrían enriquecer la experiencia.
+
+🧠 Memoria
+
+La memoria humana se divide en:
+
+Corto plazo: Información momentánea, como recordar un código.
+
+Mediano plazo: Permite organizar datos y seleccionar qué es útil.
+
+Largo plazo: Almacena conocimientos y habilidades adquiridas con el tiempo.
+
+La interfaz debe evitar depender demasiado de la memoria del usuario. Un buen diseño muestra lo necesario en el momento adecuado.
+
+🧠 Cognición
+
+Incluye procesos como:
+
+Atención
+
+Resolución de problemas
+
+Razonamiento
+
+Toma de decisiones
+
+El diseño debe reducir la carga cognitiva. Cuanto más simple y clara sea la tarea, más rápida y segura será su ejecución.
+
+❤️ Emoción
+
+El estado emocional influye en cómo se perciben y usan los sistemas. Si una interfaz genera frustración, es menos probable que el usuario vuelva a usarla. Por eso se busca una experiencia fluida, amigable y placentera (UX: User Experience).
 
 ---
 
