@@ -25,7 +25,7 @@ Aprender a distinguir y aplicar estos conceptos nos ayudará a diseñar experien
 
 Los estilos de interacción son las formas en que una persona puede comunicarse con una computadora. Elegir el estilo adecuado mejora la usabilidad y reduce los errores.
 
-### 📜 Línea de órdenes
+### 📜 Línea de Comandos (CLI)
 
 - Basada en el ingreso de comandos por texto.
 - Ejemplo: Terminal de Linux, comandos en DOS.
