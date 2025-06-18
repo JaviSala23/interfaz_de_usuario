@@ -8,7 +8,7 @@ Hoy en día estamos tan acostumbrados a lo visual que puede parecer raro o antic
 
 Pensá en la CLI como una forma directa de hablar con la computadora, sin intermediarios. No hay ventanas que nos digan qué hacer, ni botones que limiten nuestras opciones: solo vos, el teclado, y la computadora esperando que le digas exactamente qué hacer. Por eso, aunque parezca más difícil al principio, es muchísimo más poderosa y precisa que una interfaz gráfica.
 
-En esta clase, vamos a explorar cómo funciona este tipo de interfaz, por qué sigue siendo tan poderosa hoy en día y cómo se diferencia de las interfaces gráficas (GUI). También vas a aprender comandos básicos que te servirán tanto en Windows como en Linux, especialmente si algún día trabajás con servidores o desarrollo.
+
 ---
 
 📌 ¿Qué es la CLI y por qué importa?
